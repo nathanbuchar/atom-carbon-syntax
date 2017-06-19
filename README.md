@@ -1,5 +1,15 @@
-# spacegray-dark-syntax theme
+# Carbon Syntax
 
-A short description of your theme.
+A minimal gray syntax theme based on the [Spacegray](http://kkga.github.io/spacegray) theme for Sublime by Gadzhi Kharkharov.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![screenshot-1](https://raw.githubusercontent.com/nathanbuchar/atom-carbon-syntax/master/screenshots/screenshot-1.png)
+![screenshot-2](https://raw.githubusercontent.com/nathanbuchar/atom-carbon-syntax/master/screenshots/screenshot-2.png)
+
+**See Also**
+
+- [Carbon UI](https://atom.io/themes/carbon-ui)
+- [Warn Before Quitting](https://atom.io/packages/warn-before-qutting)
+
+**License**
+
+MIT

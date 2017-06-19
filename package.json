@@ -1,11 +1,23 @@
 {
-  "name": "spacegray-dark-syntax",
+  "name": "carbon-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/spacegray-dark-syntax",
+  "description": "A minimal gray syntax theme based on the Spacegray theme for Sublime by Gadzhi Kharkharov.",
+  "repository": "https://github.com/nathanbuchar/atom-carbon-syntax",
   "license": "MIT",
+  "keywords": [
+    "syntax",
+    "theme",
+    "carbon",
+    "space",
+    "gray",
+    "grey",
+    "spacegray",
+    "dark",
+    "clean",
+    "minimal"
+  ],
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">=1.13.0 <2.0.0"
   }
 }
