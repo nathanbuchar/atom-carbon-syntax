@@ -1,7 +1,7 @@
 {
   "name": "carbon-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal gray syntax theme based on the Spacegray theme for Sublime by Gadzhi Kharkharov.",
   "repository": "https://github.com/nathanbuchar/atom-carbon-syntax",
   "license": "MIT",
